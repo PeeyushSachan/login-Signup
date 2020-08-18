@@ -1,0 +1,60 @@
+*{
+  margin:0;
+  padding:0px;
+  box-sizing: border-box;
+
+}
+
+#F2{
+
+
+  display:none;
+}
+
+.proper-of-login-and-signup{
+   margin :auto 6px;
+   color:#61892F;
+   border-radius: 12px;
+   /*border:1px solid red;*/
+   box-shadow: 0 0 20px 6px #86C232;
+
+}
+.btn-bg-color{
+  top:8.49px;
+  left:5%;
+  position: absolute;
+  width:44.5%;
+  height:39.5px;
+  background: linear-gradient(to right,#fff105,#86C232);
+ border-radius: 12px;
+ transition: .5s;
+
+}
+
+.same-property{
+
+  padding-top:8px;
+  padding-bottom:8px;
+  border-radius: 12px;
+  cursor: pointer;
+  
+  position:relative;
+
+
+}
+
+
+
+/*.animation-dd{
+	animation: colorchangedd 1s infinite;
+
+
+}
+
+@keyframes colorchangedd{
+
+	0%{ color: red; }
+	25%{color: #FF00FF;}
+	50%{ color: gray; }
+	100%{ color : #FF00FF; }
+}*/
